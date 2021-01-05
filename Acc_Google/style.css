@@ -1,0 +1,34 @@
+head title
+{
+<link rel="shortcut icon" href="googl.ico" />
+}
+ 
+
+.Gmail_Images
+{
+    text-align: right; color:black;
+    
+ }
+        .Images
+        {
+            text-align: right
+        }
+        a
+{
+    color:grey; 
+}
+.all
+{
+    font-family: arial, sans-serif;
+    
+}
+.Logo_Google
+{
+    margin:12px auto;
+    width: 30px;
+   
+}
+.input
+{
+    display: inline
+}
